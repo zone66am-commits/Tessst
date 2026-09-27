@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#039087">
+<title>TREMAL X — لوحة الإدارة</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+<div class="bg"></div>
+<main class="wrap">
+  <section id="loginView" class="login card">
+    <div class="brand"><span>TX</span><div><b>TREMAL X</b><small>لوحة الإدارة</small></div></div>
+    <h1>تسجيل الدخول</h1>
+    <p>ادخل بحساب المدير لإدارة القنوات.</p>
+    <form id="loginForm">
+      <label>البريد الإلكتروني<input id="email" type="email" autocomplete="username" required></label>
+      <label>كلمة المرور<input id="password" type="password" autocomplete="current-password" required></label>
+      <button class="primary" type="submit">دخول</button>
+      <div id="loginMsg" class="msg"></div>
+    </form>
+  </section>
+
+  <section id="appView" class="hidden">
+    <header class="top card">
+      <div class="brand"><span>TX</span><div><b>TREMAL X</b><small>لوحة التحكم</small></div></div>
+      <div class="topActions"><a href="index.html" target="_blank">فتح التطبيق</a><button id="logout" class="ghost">خروج</button></div>
+    </header>
+
+    <div class="stats">
+      <div class="stat card"><small>كل القنوات</small><strong id="total">0</strong></div>
+      <div class="stat card"><small>مفعلة</small><strong id="active">0</strong></div>
+      <div class="stat card"><small>متوقفة</small><strong id="disabled">0</strong></div>
+    </div>
+
+    <section class="card panel">
+      <div class="panelHead"><div><h2 id="formTitle">إضافة قناة</h2><p>أضف قناة جديدة أو عدّل قناة موجودة.</p></div><button id="cancelEdit" class="ghost hidden">إلغاء التعديل</button></div>
+      <form id="channelForm" class="formGrid">
+        <input id="channelId" type="hidden">
+        <label>اسم القناة<input id="name" required placeholder="مثلاً: beIN SPORTS 1 HD"></label>
+        <label>رابط البث M3U8<input id="url" type="url" required placeholder="https://example.com/live.m3u8"></label>
+        <label>القسم<select id="category"><option>beIN SPORTS HD</option><option>beIN SPORTS SD</option><option>beIN SPORTS</option><option>رياضة</option><option>خليجي</option><option>العراق</option><option>أخرى</option></select></label>
+        <label>الترتيب<input id="sortOrder" type="number" min="0" value="0"></label>
+        <label class="switchLabel"><span>القناة مفعلة</span><input id="active" type="checkbox" checked><i></i></label>
+        <div class="formActions"><button class="primary" type="submit">حفظ القناة</button><button id="resetForm" type="button" class="ghost">تفريغ</button></div>
+      </form>
+      <div id="saveMsg" class="msg"></div>
+    </section>
+
+    <section class="card panel">
+      <div class="panelHead"><div><h2>القنوات</h2><p>إدارة كل القنوات الموجودة في TREMAL X.</p></div><button id="seedBtn" class="secondary">استيراد القنوات الحالية</button></div>
+      <div class="toolbar"><input id="search" placeholder="ابحث عن قناة..."><select id="filter"><option value="all">كل الأقسام</option><option>beIN SPORTS HD</option><option>beIN SPORTS SD</option><option>beIN SPORTS</option><option>رياضة</option><option>خليجي</option><option>العراق</option><option>أخرى</option></select></div>
+      <div id="list" class="list"><div class="loading">جاري تحميل القنوات...</div></div>
+    </section>
+  </section>
+</main>
+<div id="toast" class="toast"></div>
+<script type="module" src="admin.js"></script>
+</body>
+</html>

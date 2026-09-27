@@ -1,0 +1,4699 @@
+[
+  {
+    "name": "BeIN SPORTS 1 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743609.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "BeIN SPORTS 2 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743610.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 1
+  },
+  {
+    "name": "BeIN SPORTS 3 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743611.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 2
+  },
+  {
+    "name": "BeIN SPORTS 4 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743612.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 3
+  },
+  {
+    "name": "BeIN SPORTS 5 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743613.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 4
+  },
+  {
+    "name": "BeIN SPORTS 6 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743614.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 5
+  },
+  {
+    "name": "BeIN SPORTS 7 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743615.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 6
+  },
+  {
+    "name": "BeIN SPORTS 8 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743616.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 7
+  },
+  {
+    "name": "BeIN SPORTS 9 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743617.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 8
+  },
+  {
+    "name": "BEIN_SPORTS1_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743559.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 9
+  },
+  {
+    "name": "BEIN_SPORTS2_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743560.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 10
+  },
+  {
+    "name": "BEIN_SPORTS3_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743561.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 11
+  },
+  {
+    "name": "BEIN_SPORTS4_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743562.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 12
+  },
+  {
+    "name": "BEIN_SPORTS5_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743563.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 13
+  },
+  {
+    "name": "BEIN_SPORTS6_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743564.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 14
+  },
+  {
+    "name": "BEIN_SPORTS7_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743565.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 15
+  },
+  {
+    "name": "BEIN_SPORTS8_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743566.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 16
+  },
+  {
+    "name": "BEIN_SPORTS9_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743567.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 17
+  },
+  {
+    "name": "BeIN Sports 1 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743583.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 18
+  },
+  {
+    "name": "BeIN Sports 2 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743584.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 19
+  },
+  {
+    "name": "BeIN Sports 3 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743585.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 20
+  },
+  {
+    "name": "BeIN Sports 4 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743586.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 21
+  },
+  {
+    "name": "BeIN Sports 5 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743587.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 22
+  },
+  {
+    "name": "BeIN Sports 6 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743588.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 23
+  },
+  {
+    "name": "BeIN Sports 7 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743589.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 24
+  },
+  {
+    "name": "BeIN Sports 8 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743590.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 25
+  },
+  {
+    "name": "BeIN Sports 9 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743591.m3u8",
+    "category": "beIN SPORTS SD",
+    "active": true,
+    "sortOrder": 26
+  },
+  {
+    "name": "BEIN SPORTS 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743631.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 27
+  },
+  {
+    "name": "BEIN SPORTS 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743632.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 28
+  },
+  {
+    "name": "BEIN SPORTS 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743633.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 29
+  },
+  {
+    "name": "BEIN SPORTS 4 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743634.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 30
+  },
+  {
+    "name": "BEIN SPORTS 5 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743635.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 31
+  },
+  {
+    "name": "BEIN SPORTS 6 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743636.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 32
+  },
+  {
+    "name": "BEIN SPORTS 7 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743637.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 33
+  },
+  {
+    "name": "BEIN SPORTS 8 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743638.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 34
+  },
+  {
+    "name": "BEIN SPORTS 9 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743639.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 35
+  },
+  {
+    "name": "beIN SPORTS 4 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51803.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 36
+  },
+  {
+    "name": "beIN SPORTS 5 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51802.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 37
+  },
+  {
+    "name": "beIN SPORTS 6 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51801.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 38
+  },
+  {
+    "name": "beIN SPORTS 7 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51800.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 39
+  },
+  {
+    "name": "beIN SPORTS 8 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51799.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 40
+  },
+  {
+    "name": "beIN SPORTS 9 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51798.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 41
+  },
+  {
+    "name": "beIN SPORTS 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51796.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 42
+  },
+  {
+    "name": "beIN SPORTS 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51795.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 43
+  },
+  {
+    "name": "beIN SPORTS 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51794.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 44
+  },
+  {
+    "name": "beIN Sport News FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/93678.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 45
+  },
+  {
+    "name": "beIN Sport Extra 02",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/93676.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 46
+  },
+  {
+    "name": "beIN Sport Extra 01",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/93675.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 47
+  },
+  {
+    "name": "Bein Sports 09 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/93673.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 48
+  },
+  {
+    "name": "Bein Sports 01 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61064.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 49
+  },
+  {
+    "name": "Bein Sports 02 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61063.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 50
+  },
+  {
+    "name": "Bein Sports 03 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61062.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 51
+  },
+  {
+    "name": "Bein Sports 04 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61061.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 52
+  },
+  {
+    "name": "Bein Sports 05 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61060.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 53
+  },
+  {
+    "name": "Bein Sports 06 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61059.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 54
+  },
+  {
+    "name": "Bein Sports 07 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61058.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 55
+  },
+  {
+    "name": "Bein Sports  08 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61057.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 56
+  },
+  {
+    "name": "Bein Sports 01 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51826.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 57
+  },
+  {
+    "name": "Bein Sports 02 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51825.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 58
+  },
+  {
+    "name": "Bein Sports 03 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51824.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 59
+  },
+  {
+    "name": "Bein Sports 04 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51823.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 60
+  },
+  {
+    "name": "Bein Sports 05 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51822.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 61
+  },
+  {
+    "name": "Bein Sports 06 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51821.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 62
+  },
+  {
+    "name": "Bein Sports 07  [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51820.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 63
+  },
+  {
+    "name": "Bein Sports  08[4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51819.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 64
+  },
+  {
+    "name": "Bein Sports 09 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51818.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 65
+  },
+  {
+    "name": "BeIN SPORTS 9 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743649.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 66
+  },
+  {
+    "name": "BeIN SPORTS 8 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743648.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 67
+  },
+  {
+    "name": "BeIN SPORTS 7 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743647.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 68
+  },
+  {
+    "name": "BeIN SPORTS 6 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743646.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 69
+  },
+  {
+    "name": "BeIN SPORTS 5 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743645.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 70
+  },
+  {
+    "name": "BeIN SPORTS 4 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743644.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 71
+  },
+  {
+    "name": "BeIN SPORTS 3 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743643.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 72
+  },
+  {
+    "name": "BeIN SPORTS 2 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743642.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 73
+  },
+  {
+    "name": "BeIN SPORTS 1 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743641.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 74
+  },
+  {
+    "name": "beIN Sport 01 (1080p) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58868.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 75
+  },
+  {
+    "name": "beIN Sport 02 (1080p) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58867.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 76
+  },
+  {
+    "name": "beIN Sport 03 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58866.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 77
+  },
+  {
+    "name": "beIN Sport 04 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58865.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 78
+  },
+  {
+    "name": "beIN Sport 05 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58864.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 79
+  },
+  {
+    "name": "beIN Sport 06 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58863.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 80
+  },
+  {
+    "name": "beIN Sport 07 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58862.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 81
+  },
+  {
+    "name": "beIN Sports 08 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58861.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 82
+  },
+  {
+    "name": "beIN Sports 09 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58860.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 83
+  },
+  {
+    "name": "(AR)BEIN_SPORTS9 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743576.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 84
+  },
+  {
+    "name": "(AR)BEIN_SPORTS8 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743575.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 85
+  },
+  {
+    "name": "(AR)BEIN_SPORTS7 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743574.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 86
+  },
+  {
+    "name": "(AR)BEIN_SPORTS6 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743573.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 87
+  },
+  {
+    "name": "(AR)BEIN_SPORTS5 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743572.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 88
+  },
+  {
+    "name": "(AR)BEIN_SPORTS4 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743571.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 89
+  },
+  {
+    "name": "(AR)BEIN_SPORTS3 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743570.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 90
+  },
+  {
+    "name": "(AR)BEIN_SPORTS2 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743569.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 91
+  },
+  {
+    "name": "(AR)BEIN_SPORTS1 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743568.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 92
+  },
+  {
+    "name": "beIN SPORTS HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625066.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 93
+  },
+  {
+    "name": "beIN Sports News HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625067.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 94
+  },
+  {
+    "name": "beIN SPORTS NEWS FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625105.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 95
+  },
+  {
+    "name": "beIN SPORTS FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625106.m3u8",
+    "category": "beIN SPORTS HD",
+    "active": true,
+    "sortOrder": 96
+  },
+  {
+    "name": "Al Kass One HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625073.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 97
+  },
+  {
+    "name": "Al Kass Two HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625074.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 98
+  },
+  {
+    "name": "Al Kass Three HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625075.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 99
+  },
+  {
+    "name": "Al Kass Four HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625076.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 100
+  },
+  {
+    "name": "Al Kass Five HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625077.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 101
+  },
+  {
+    "name": "Thmanayh 3 4K",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371723.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 102
+  },
+  {
+    "name": "Thmanayh 2 4K",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371722.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 103
+  },
+  {
+    "name": "Thmanayh 1 4K",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371721.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 104
+  },
+  {
+    "name": "Thmanayh 3HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371720.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 105
+  },
+  {
+    "name": "Thmanayh 2HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371719.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 106
+  },
+  {
+    "name": "Thmanayh 1HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371718.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 107
+  },
+  {
+    "name": "Shahid 1 Evnet",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625065.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 108
+  },
+  {
+    "name": "AD Sport 1HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625068.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 109
+  },
+  {
+    "name": "AD Sport 2HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625069.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 110
+  },
+  {
+    "name": "KSA Sport 1HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625070.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 111
+  },
+  {
+    "name": "KSA Sport 2HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625071.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 112
+  },
+  {
+    "name": "KSA Sport 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625072.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 113
+  },
+  {
+    "name": "Saudia Sport 24 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625078.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 114
+  },
+  {
+    "name": "Sharjah Sports TV HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625079.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 115
+  },
+  {
+    "name": "Dubai Sport 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625080.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 116
+  },
+  {
+    "name": "Dubai Sport 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625081.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 117
+  },
+  {
+    "name": "Dubai Sport 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625082.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 118
+  },
+  {
+    "name": "Dubai Racing 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625083.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 119
+  },
+  {
+    "name": "Dubai Racing 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625084.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 120
+  },
+  {
+    "name": "Dubai Racing 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625085.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 121
+  },
+  {
+    "name": "Al Iraqia Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625086.m3u8",
+    "category": "العراق",
+    "active": true,
+    "sortOrder": 122
+  },
+  {
+    "name": "Kuwait Sports HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625087.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 123
+  },
+  {
+    "name": "Kuwait Sports Plus HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625088.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 124
+  },
+  {
+    "name": "Bahrain Sports 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625089.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 125
+  },
+  {
+    "name": "Bahrain Sports 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625090.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 126
+  },
+  {
+    "name": "Libya Sport Channel",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625091.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 127
+  },
+  {
+    "name": "Libya Sports  2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625092.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 128
+  },
+  {
+    "name": "Palestine Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625093.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 129
+  },
+  {
+    "name": "Oman Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625094.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 130
+  },
+  {
+    "name": "Jordan Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625095.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 131
+  },
+  {
+    "name": "Iraqia Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625096.m3u8",
+    "category": "العراق",
+    "active": true,
+    "sortOrder": 132
+  },
+  {
+    "name": "AD Sport 1FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625097.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 133
+  },
+  {
+    "name": "AD Sport 2FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625098.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 134
+  },
+  {
+    "name": "YAS Sport",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625099.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 135
+  },
+  {
+    "name": "KSA Sport 1 FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625100.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 136
+  },
+  {
+    "name": "KSA Sport 2 FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625101.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 137
+  },
+  {
+    "name": "KSA Sport 3 FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625102.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 138
+  },
+  {
+    "name": "ON Time Sports FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625103.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 139
+  },
+  {
+    "name": "ON Time Sports 2FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625104.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 140
+  },
+  {
+    "name": "Al Ahly FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625107.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 141
+  },
+  {
+    "name": "Kuwait Sports FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625108.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 142
+  },
+  {
+    "name": "Arriadia MR",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625109.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 143
+  },
+  {
+    "name": "ON Time Sports SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625110.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 144
+  },
+  {
+    "name": "ON Time Sports 2 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625111.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 145
+  },
+  {
+    "name": "ON Time Sports HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625112.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 146
+  },
+  {
+    "name": "ON Time Sports 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625113.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 147
+  },
+  {
+    "name": "ON Time Sports FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625114.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 148
+  },
+  {
+    "name": "ON Time Sports 2FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625115.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 149
+  },
+  {
+    "name": "Nile Sports",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625116.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 150
+  },
+  {
+    "name": "Al Ahly HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625117.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 151
+  },
+  {
+    "name": "Zamalik TV",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625118.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 152
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/1.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 153
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/2.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 154
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/3.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 155
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/4.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 156
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/5.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 157
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/6.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 158
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/7.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 159
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/8.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 160
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/9.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 161
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/13.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 162
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/14.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 163
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/15.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 164
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/16.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 165
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/17.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 166
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/18.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 167
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/19.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 168
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/20.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 169
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/21.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 170
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/25.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 171
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/26.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 172
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/27.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 173
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/28.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 174
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/29.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 175
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/30.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 176
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/31.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 177
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/32.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 178
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/33.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 179
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/37.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 180
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/38.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 181
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/39.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 182
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/40.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 183
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/41.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 184
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/42.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 185
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/43.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 186
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/44.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 187
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/45.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 188
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/49.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 189
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/50.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 190
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/51.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 191
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/52.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 192
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/53.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 193
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/54.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 194
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/55.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 195
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/56.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 196
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/57.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 197
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/63.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 198
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/64.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 199
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/65.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 200
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/66.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 201
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/67.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 202
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/68.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 203
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/69.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 204
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/70.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 205
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/71.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 206
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/99.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 207
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/100.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 208
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/101.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 209
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/102.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 210
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/103.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 211
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/104.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 212
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/105.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 213
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/106.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 214
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/107.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 215
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/111.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 216
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/112.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 217
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/113.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 218
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/114.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 219
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/115.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 220
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/116.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 221
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/117.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 222
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/118.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 223
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/119.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 224
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/123.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 225
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/124.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 226
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/125.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 227
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/126.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 228
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/127.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 229
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/128.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 230
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/129.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 231
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/130.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 232
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/131.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 233
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/135.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 234
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/136.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 235
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/137.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 236
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/138.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 237
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/139.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 238
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/140.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 239
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/141.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 240
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/142.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 241
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/143.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 242
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/87.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 243
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/88.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 244
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/89.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 245
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/90.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 246
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/91.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 247
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/92.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 248
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/93.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 249
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/94.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 250
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/95.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 251
+  },
+  {
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/22.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 252
+  },
+  {
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/23.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 253
+  },
+  {
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/24.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 254
+  },
+  {
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/46.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 255
+  },
+  {
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/47.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 256
+  },
+  {
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/48.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 257
+  },
+  {
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/72.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 258
+  },
+  {
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/73.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 259
+  },
+  {
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/74.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 260
+  },
+  {
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/120.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 261
+  },
+  {
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/121.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 262
+  },
+  {
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/122.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 263
+  },
+  {
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/144.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 264
+  },
+  {
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/145.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 265
+  },
+  {
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/146.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 266
+  },
+  {
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/96.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 267
+  },
+  {
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/97.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 268
+  },
+  {
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/98.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 269
+  },
+  {
+    "name": "beIN Sports AFC",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154331.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 270
+  },
+  {
+    "name": "beIN Sports AFC 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154330.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 271
+  },
+  {
+    "name": "beIN Sports AFC 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154329.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 272
+  },
+  {
+    "name": "beIN Sports AFC 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154328.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 273
+  },
+  {
+    "name": "beIN Sports AFC 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154327.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 274
+  },
+  {
+    "name": "beIN Sports AFC 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154326.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 275
+  },
+  {
+    "name": "beIN Sports AFC",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154325.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 276
+  },
+  {
+    "name": "beIN Sports AFC 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154324.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 277
+  },
+  {
+    "name": "beIN Sports AFC 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154323.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 278
+  },
+  {
+    "name": "beIN Sports AFC 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154322.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 279
+  },
+  {
+    "name": "beIN Sports AFC 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154321.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 280
+  },
+  {
+    "name": "beIN Sports AFC 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154320.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 281
+  },
+  {
+    "name": "beIN Sports AFC",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154319.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 282
+  },
+  {
+    "name": "beIN Sports AFC 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154318.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 283
+  },
+  {
+    "name": "beIN Sports AFC 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154317.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 284
+  },
+  {
+    "name": "beIN Sports AFC 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154316.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 285
+  },
+  {
+    "name": "beIN Sports AFC 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154315.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 286
+  },
+  {
+    "name": "beIN Sports AFC 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154314.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 287
+  },
+  {
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/170.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 288
+  },
+  {
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/171.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 289
+  },
+  {
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/172.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 290
+  },
+  {
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/173.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 291
+  },
+  {
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/166.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 292
+  },
+  {
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/167.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 293
+  },
+  {
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/168.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 294
+  },
+  {
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/169.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 295
+  },
+  {
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/174.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 296
+  },
+  {
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/175.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 297
+  },
+  {
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/176.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 298
+  },
+  {
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/177.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 299
+  },
+  {
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/321.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 300
+  },
+  {
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/322.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 301
+  },
+  {
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/323.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 302
+  },
+  {
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/324.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 303
+  },
+  {
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/317.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 304
+  },
+  {
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/318.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 305
+  },
+  {
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/319.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 306
+  },
+  {
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/320.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 307
+  },
+  {
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/178.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 308
+  },
+  {
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/179.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 309
+  },
+  {
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/315.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 310
+  },
+  {
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/316.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 311
+  },
+  {
+    "name": "beIN Sports News",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/420.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 312
+  },
+  {
+    "name": "beIN Sports",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/419.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 313
+  },
+  {
+    "name": "Alkass 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154313.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 314
+  },
+  {
+    "name": "Alkass 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154312.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 315
+  },
+  {
+    "name": "Alkass 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154311.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 316
+  },
+  {
+    "name": "Alkass 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154310.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 317
+  },
+  {
+    "name": "Alkass 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154309.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 318
+  },
+  {
+    "name": "Alkass 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154308.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 319
+  },
+  {
+    "name": "Alkass 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154307.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 320
+  },
+  {
+    "name": "Alkass 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154306.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 321
+  },
+  {
+    "name": "Alkass 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154305.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 322
+  },
+  {
+    "name": "Alkass 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154304.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 323
+  },
+  {
+    "name": "Alkass 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154303.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 324
+  },
+  {
+    "name": "Alkass 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154302.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 325
+  },
+  {
+    "name": "Alkass 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154301.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 326
+  },
+  {
+    "name": "Alkass 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154300.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 327
+  },
+  {
+    "name": "Alkass 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154299.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 328
+  },
+  {
+    "name": "Alkass 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154298.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 329
+  },
+  {
+    "name": "Alkass 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154297.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 330
+  },
+  {
+    "name": "Alkass 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154296.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 331
+  },
+  {
+    "name": "Alkass 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154295.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 332
+  },
+  {
+    "name": "Alkass 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154294.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 333
+  },
+  {
+    "name": "Alkass 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154293.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 334
+  },
+  {
+    "name": "Alkass 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154292.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 335
+  },
+  {
+    "name": "Alkass 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154291.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 336
+  },
+  {
+    "name": "Alkass 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154290.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 337
+  },
+  {
+    "name": "Alkass 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154289.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 338
+  },
+  {
+    "name": "Alkass 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154288.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 339
+  },
+  {
+    "name": "Alkass 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154287.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 340
+  },
+  {
+    "name": "Alkass 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154286.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 341
+  },
+  {
+    "name": "Alkass 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154285.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 342
+  },
+  {
+    "name": "Alkass 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154284.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 343
+  },
+  {
+    "name": "Alkass 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/418.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 344
+  },
+  {
+    "name": "Alkass 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/417.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 345
+  },
+  {
+    "name": "Alwan Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/360.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 346
+  },
+  {
+    "name": "Alwan Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/361.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 347
+  },
+  {
+    "name": "Alwan Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/362.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 348
+  },
+  {
+    "name": "Alwan Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/363.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 349
+  },
+  {
+    "name": "Alwan Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/364.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 350
+  },
+  {
+    "name": "Alwan Sport 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/365.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 351
+  },
+  {
+    "name": "Alwan Sport 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/366.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 352
+  },
+  {
+    "name": "Alwan Sport 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/367.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 353
+  },
+  {
+    "name": "Alwan Sport 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/368.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 354
+  },
+  {
+    "name": "Alwan Sport 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/369.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 355
+  },
+  {
+    "name": "Alwan Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/350.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 356
+  },
+  {
+    "name": "Alwan Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/351.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 357
+  },
+  {
+    "name": "Alwan Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/352.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 358
+  },
+  {
+    "name": "Alwan Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/353.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 359
+  },
+  {
+    "name": "Alwan Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/354.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 360
+  },
+  {
+    "name": "Alwan Sport 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/355.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 361
+  },
+  {
+    "name": "Alwan Sport 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/356.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 362
+  },
+  {
+    "name": "Alwan Sport 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/357.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 363
+  },
+  {
+    "name": "Alwan Sport 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/358.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 364
+  },
+  {
+    "name": "Alwan Sport 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/359.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 365
+  },
+  {
+    "name": "AL AHLY",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/413.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 366
+  },
+  {
+    "name": "AL ZAMALEK",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/415.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 367
+  },
+  {
+    "name": "Al Ahly",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/404.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 368
+  },
+  {
+    "name": "ZAMALIK Sport",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/403.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 369
+  },
+  {
+    "name": "ON Time Sport",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/400.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 370
+  },
+  {
+    "name": "ON Time Sport Max",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/401.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 371
+  },
+  {
+    "name": "ON Time Sport Plus",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/402.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 372
+  },
+  {
+    "name": "Abu Dhabi Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/411.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 373
+  },
+  {
+    "name": "Abu Dhabi Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/412.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 374
+  },
+  {
+    "name": "KSA Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/425.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 375
+  },
+  {
+    "name": "KSA Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/424.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 376
+  },
+  {
+    "name": "KSA Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/423.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 377
+  },
+  {
+    "name": "KSA Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/422.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 378
+  },
+  {
+    "name": "Dubai Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/421.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 379
+  },
+  {
+    "name": "Dubai Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/427.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 380
+  },
+  {
+    "name": "Dubai Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/426.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 381
+  },
+  {
+    "name": "Dubai Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/409.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 382
+  },
+  {
+    "name": "Dubai Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/410.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 383
+  },
+  {
+    "name": "Dubai Racing 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/406.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 384
+  },
+  {
+    "name": "Dubai Racing 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/407.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 385
+  },
+  {
+    "name": "YAS Sport",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/416.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 386
+  },
+  {
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/10.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 387
+  },
+  {
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/11.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 388
+  },
+  {
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/12.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 389
+  },
+  {
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/34.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 390
+  },
+  {
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/35.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 391
+  },
+  {
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/36.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 392
+  },
+  {
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/58.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 393
+  },
+  {
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/59.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 394
+  },
+  {
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/60.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 395
+  },
+  {
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/108.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 396
+  },
+  {
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/109.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 397
+  },
+  {
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/110.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 398
+  },
+  {
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/132.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 399
+  },
+  {
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/133.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 400
+  },
+  {
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/134.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 401
+  },
+  {
+    "name": "Shahid Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/465.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 402
+  },
+  {
+    "name": "Shahid Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/466.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 403
+  },
+  {
+    "name": "Shahid Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/467.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 404
+  },
+  {
+    "name": "Shahid Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/468.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 405
+  },
+  {
+    "name": "Shahid Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/469.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 406
+  },
+  {
+    "name": "Shahid Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/455.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 407
+  },
+  {
+    "name": "Shahid Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/456.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 408
+  },
+  {
+    "name": "Shahid Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/457.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 409
+  },
+  {
+    "name": "Shahid Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/458.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 410
+  },
+  {
+    "name": "Shahid Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/459.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 411
+  },
+  {
+    "name": "Shahid Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/450.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 412
+  },
+  {
+    "name": "Shahid Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/451.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 413
+  },
+  {
+    "name": "Shahid Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/452.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 414
+  },
+  {
+    "name": "Shahid Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/453.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 415
+  },
+  {
+    "name": "Shahid Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/454.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 416
+  },
+  {
+    "name": "AD STARZ Play 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 417
+  },
+  {
+    "name": "AD STARZ Play 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/155.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 418
+  },
+  {
+    "name": "AD STARZ Play 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/156.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 419
+  },
+  {
+    "name": "AD STARZ Play 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/157.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 420
+  },
+  {
+    "name": "AD STARZ Play 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/158.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 421
+  },
+  {
+    "name": "AD STARZ Play 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/159.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 422
+  },
+  {
+    "name": "AD STARZ Play 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/160.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 423
+  },
+  {
+    "name": "AD STARZ Play 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/161.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 424
+  },
+  {
+    "name": "AD STARZ Play 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/162.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 425
+  },
+  {
+    "name": "AD STARZ Play 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/163.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 426
+  },
+  {
+    "name": "AD STARZ Play 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/164.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 427
+  },
+  {
+    "name": "AD STARZ Play 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/165.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 428
+  },
+  {
+    "name": "BEIN SPORTS NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/273517.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 429
+  },
+  {
+    "name": "BEIN SPORTS NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/135.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 430
+  },
+  {
+    "name": "BEIN SPORTS GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/136.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 431
+  },
+  {
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10517.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 432
+  },
+  {
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11160.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 433
+  },
+  {
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11183.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 434
+  },
+  {
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10516.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 435
+  },
+  {
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11182.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 436
+  },
+  {
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11181.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 437
+  },
+  {
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10514.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 438
+  },
+  {
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11178.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 439
+  },
+  {
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11177.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 440
+  },
+  {
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10513.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 441
+  },
+  {
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11176.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 442
+  },
+  {
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11175.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 443
+  },
+  {
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10512.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 444
+  },
+  {
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11174.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 445
+  },
+  {
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11173.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 446
+  },
+  {
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10511.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 447
+  },
+  {
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11172.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 448
+  },
+  {
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11171.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 449
+  },
+  {
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10510.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 450
+  },
+  {
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11170.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 451
+  },
+  {
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11169.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 452
+  },
+  {
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10509.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 453
+  },
+  {
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11168.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 454
+  },
+  {
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11167.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 455
+  },
+  {
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10508.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 456
+  },
+  {
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11166.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 457
+  },
+  {
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11165.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 458
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535836.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 459
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535831.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 460
+  },
+  {
+    "name": "BEIN SPORTS XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535830.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 461
+  },
+  {
+    "name": "BEIN SPORTS XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535832.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 462
+  },
+  {
+    "name": "BEIN SPORTS XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535837.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 463
+  },
+  {
+    "name": "BEIN SPORTS XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535834.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 464
+  },
+  {
+    "name": "BEIN SPORTS XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535833.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 465
+  },
+  {
+    "name": "BEIN SPORTS XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535838.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 466
+  },
+  {
+    "name": "BEIN SPORTS XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535835.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 467
+  },
+  {
+    "name": "BEIN SPORTS XTRA 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535839.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 468
+  },
+  {
+    "name": "BEIN SPORTS XTRA 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535840.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 469
+  },
+  {
+    "name": "BEIN SPORTS XTRA 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535841.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 470
+  },
+  {
+    "name": "BEIN SPORTS XTRA 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535842.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 471
+  },
+  {
+    "name": "BEIN SPORTS XTRA 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535843.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 472
+  },
+  {
+    "name": "BEIN SPORTS XTRA 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535844.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 473
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10515.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 474
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11180.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 475
+  },
+  {
+    "name": "BEIN SPORTS XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11179.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 476
+  },
+  {
+    "name": "BEIN SPORTS 1 FR",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/333832.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 477
+  },
+  {
+    "name": "BEIN SPORTS 2 FR",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/333831.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 478
+  },
+  {
+    "name": "BEIN SPORTS 1 ENGLISH",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/827.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 479
+  },
+  {
+    "name": "BEIN SPORTS 2 ENGLISH",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/828.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 480
+  },
+  {
+    "name": "BEIN SPORTS MAX 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/14122.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 481
+  },
+  {
+    "name": "BEIN SPORTS MAX 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13787.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 482
+  },
+  {
+    "name": "BEIN SPORTS MAX 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/14121.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 483
+  },
+  {
+    "name": "BEIN SPORTS MAX 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13786.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 484
+  },
+  {
+    "name": "BEIN SPORTS MAX 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/14120.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 485
+  },
+  {
+    "name": "BEIN SPORTS MAX 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13785.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 486
+  },
+  {
+    "name": "BEIN SPORTS MAX 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/14119.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 487
+  },
+  {
+    "name": "BEIN SPORTS MAX 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13784.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 488
+  },
+  {
+    "name": "BEIN SPORTS 2 TOD",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/701879.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 489
+  },
+  {
+    "name": "BEIN SPORTS 1 TOD",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/701878.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 490
+  },
+  {
+    "name": "BEIN SPORTS NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28236.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 491
+  },
+  {
+    "name": "BEIN SPORTS GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28237.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 492
+  },
+  {
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44389.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 493
+  },
+  {
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44390.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 494
+  },
+  {
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44392.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 495
+  },
+  {
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44393.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 496
+  },
+  {
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44394.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 497
+  },
+  {
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44395.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 498
+  },
+  {
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44396.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 499
+  },
+  {
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44397.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 500
+  },
+  {
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/56764.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 501
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44391.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 502
+  },
+  {
+    "name": "BEIN SPORTS 1 EN",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44398.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 503
+  },
+  {
+    "name": "AFC",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/230372.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 504
+  },
+  {
+    "name": "BEIN SPORTS AFC 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/230371.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 505
+  },
+  {
+    "name": "BEIN SPORTS AFC 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/230370.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 506
+  },
+  {
+    "name": "BEIN SPORTS AFC 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/230369.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 507
+  },
+  {
+    "name": "BEIN SPORTS MAX 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13776.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 508
+  },
+  {
+    "name": "BEIN SPORTS MAX 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13775.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 509
+  },
+  {
+    "name": "BEIN SPORTS MAX 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13774.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 510
+  },
+  {
+    "name": "BEIN SPORTS MAX 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13773.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 511
+  },
+  {
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/17253.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 512
+  },
+  {
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3300.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 513
+  },
+  {
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/16670.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 514
+  },
+  {
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3297.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 515
+  },
+  {
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/16669.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 516
+  },
+  {
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3295.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 517
+  },
+  {
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/17247.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 518
+  },
+  {
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/17249.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 519
+  },
+  {
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3292.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 520
+  },
+  {
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/17254.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 521
+  },
+  {
+    "name": "BEIN SPORTS 1 EN",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3291.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 522
+  },
+  {
+    "name": "BEIN SPORTS MAX 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13780.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 523
+  },
+  {
+    "name": "BEIN SPORTS MAX 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13779.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 524
+  },
+  {
+    "name": "BEIN SPORTS MAX 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13778.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 525
+  },
+  {
+    "name": "BEIN SPORTS MAX 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13777.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 526
+  },
+  {
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624619.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 527
+  },
+  {
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624618.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 528
+  },
+  {
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624617.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 529
+  },
+  {
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624616.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 530
+  },
+  {
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624615.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 531
+  },
+  {
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624614.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 532
+  },
+  {
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624613.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 533
+  },
+  {
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624612.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 534
+  },
+  {
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624611.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 535
+  },
+  {
+    "name": "BEIN SPORTS GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624620.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 536
+  },
+  {
+    "name": "BEIN SPORTS NEW",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624621.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 537
+  },
+  {
+    "name": "BEIN SPORTS XTRA1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624610.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 538
+  },
+  {
+    "name": "BEIN SPORTS XTRA2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624609.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 539
+  },
+  {
+    "name": "BEIN SPORTS XTRA3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624608.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 540
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624647.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 541
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624646.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 542
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624645.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 543
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624644.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 544
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624643.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 545
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624642.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 546
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624641.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 547
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624640.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 548
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624639.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 549
+  },
+  {
+    "name": "beIN Sports GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624648.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 550
+  },
+  {
+    "name": "beIN Sports NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624649.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 551
+  },
+  {
+    "name": "beIN Sports XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624638.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 552
+  },
+  {
+    "name": "beIN Sports XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624637.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 553
+  },
+  {
+    "name": "beIN Sports XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624636.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 554
+  },
+  {
+    "name": "beIN Sports 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624659.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 555
+  },
+  {
+    "name": "beIN Sports 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624658.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 556
+  },
+  {
+    "name": "beIN Sports 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624657.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 557
+  },
+  {
+    "name": "beIN Sports 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624656.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 558
+  },
+  {
+    "name": "beIN Sports 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624655.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 559
+  },
+  {
+    "name": "beIN Sports 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624654.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 560
+  },
+  {
+    "name": "beIN Sports 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624653.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 561
+  },
+  {
+    "name": "beIN Sports 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624652.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 562
+  },
+  {
+    "name": "beIN Sports 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624651.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 563
+  },
+  {
+    "name": "beIN Sports GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624660.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 564
+  },
+  {
+    "name": "beIN Sports NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624661.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 565
+  },
+  {
+    "name": "beIN Sports XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624650.m3u8",
+    "category": "beIN SPORTS",
+    "active": true,
+    "sortOrder": 566
+  },
+  {
+    "name": "ALKASS ONE",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28592.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 567
+  },
+  {
+    "name": "ALKASS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28597.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 568
+  },
+  {
+    "name": "ALKASS ONE",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28244.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 569
+  },
+  {
+    "name": "ALKASS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28596.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 570
+  },
+  {
+    "name": "ALKASS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/4431.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 571
+  },
+  {
+    "name": "ALKASS FOUR",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28593.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 572
+  },
+  {
+    "name": "SHAHID 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699599.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 573
+  },
+  {
+    "name": "SHAHID 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699598.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 574
+  },
+  {
+    "name": "SHAHID 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699597.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 575
+  },
+  {
+    "name": "SHAHID 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699596.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 576
+  },
+  {
+    "name": "SHAHID 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699595.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 577
+  },
+  {
+    "name": "SHAHID 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699594.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 578
+  },
+  {
+    "name": "SHAHID 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699593.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 579
+  },
+  {
+    "name": "SHAHID 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699592.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 580
+  },
+  {
+    "name": "SHAHID 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699591.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 581
+  },
+  {
+    "name": "SHAHID 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699590.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 582
+  },
+  {
+    "name": "SHAHID 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699589.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 583
+  },
+  {
+    "name": "SHAHID 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699588.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 584
+  },
+  {
+    "name": "SHAHID 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699587.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 585
+  },
+  {
+    "name": "Bundesliga Shaid 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699586.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 586
+  },
+  {
+    "name": "Bundesliga Shaid 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699585.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 587
+  },
+  {
+    "name": "Bundesliga Shaid 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699584.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 588
+  },
+  {
+    "name": "Bundesliga Shaid 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699583.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 589
+  },
+  {
+    "name": "Bundesliga Shaid 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699582.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 590
+  },
+  {
+    "name": "Bundesliga Shaid 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699581.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 591
+  },
+  {
+    "name": "ShaSha Sport",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699580.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 592
+  },
+  {
+    "name": "ShaSha Sport Event",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699579.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 593
+  },
+  {
+    "name": "SHAHID SPORT 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699578.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 594
+  },
+  {
+    "name": "SHAHID SPORT 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699577.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 595
+  },
+  {
+    "name": "SHAHID SPORT 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699576.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 596
+  },
+  {
+    "name": "SHAHID SPORT 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699575.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 597
+  },
+  {
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699574.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 598
+  },
+  {
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699573.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 599
+  },
+  {
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699572.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 600
+  },
+  {
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699571.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 601
+  },
+  {
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699570.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 602
+  },
+  {
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699569.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 603
+  },
+  {
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699568.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 604
+  },
+  {
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699567.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 605
+  },
+  {
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699566.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 606
+  },
+  {
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699565.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 607
+  },
+  {
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699564.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 608
+  },
+  {
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699563.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 609
+  },
+  {
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699562.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 610
+  },
+  {
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699561.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 611
+  },
+  {
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699560.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 612
+  },
+  {
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699559.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 613
+  },
+  {
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699558.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 614
+  },
+  {
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699557.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 615
+  },
+  {
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699556.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 616
+  },
+  {
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699555.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 617
+  },
+  {
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699554.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 618
+  },
+  {
+    "name": "SHASHA EVENTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/609181.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 619
+  },
+  {
+    "name": "SHASHA EVENTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/609180.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 620
+  },
+  {
+    "name": "SHASHA EVENTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/609179.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 621
+  },
+  {
+    "name": "THAMANYA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/557160.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 622
+  },
+  {
+    "name": "THAMANYA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/557159.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 623
+  },
+  {
+    "name": "THAMANYA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/557162.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 624
+  },
+  {
+    "name": "THAMANYA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/557163.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 625
+  },
+  {
+    "name": "THAMANYA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/593470.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 626
+  },
+  {
+    "name": "THAMANYA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/593471.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 627
+  },
+  {
+    "name": "ABUDABI SPORT PR 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248852.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 628
+  },
+  {
+    "name": "ABUDABI SPORT PR 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248851.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 629
+  },
+  {
+    "name": "ABUDABI SPORT PR 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248854.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 630
+  },
+  {
+    "name": "ABUDABI SPORT PR 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248853.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 631
+  },
+  {
+    "name": "STARZPLAY SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248856.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 632
+  },
+  {
+    "name": "STARZPLAY SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248855.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 633
+  },
+  {
+    "name": "FIGHT SPORTS EVENTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248890.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 634
+  },
+  {
+    "name": "ALFAJER 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689540.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 635
+  },
+  {
+    "name": "ALFAJER 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689539.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 636
+  },
+  {
+    "name": "ALFAJER 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689538.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 637
+  },
+  {
+    "name": "ALFAJER 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689537.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 638
+  },
+  {
+    "name": "ALFAJER 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689536.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 639
+  },
+  {
+    "name": "ALFAJER 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689535.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 640
+  },
+  {
+    "name": "ALFAJER 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689534.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 641
+  },
+  {
+    "name": "ALFAJER 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689533.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 642
+  },
+  {
+    "name": "ALFAJER 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689532.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 643
+  },
+  {
+    "name": "ALFAJER 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689531.m3u8",
+    "category": "أخرى",
+    "active": true,
+    "sortOrder": 644
+  },
+  {
+    "name": "STC TV SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/606546.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 645
+  },
+  {
+    "name": "STC TV SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/606545.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 646
+  },
+  {
+    "name": "AD SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/4474.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 647
+  },
+  {
+    "name": "AD SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/4473.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 648
+  },
+  {
+    "name": "DUBAI SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28289.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 649
+  },
+  {
+    "name": "UAE DUBAI SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28288.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 650
+  },
+  {
+    "name": "UAE DUBAI SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28287.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 651
+  },
+  {
+    "name": "SHARJAH SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/51902.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 652
+  },
+  {
+    "name": "KSA SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28479.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 653
+  },
+  {
+    "name": "KSA SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28477.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 654
+  },
+  {
+    "name": "KSA SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/122847.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 655
+  },
+  {
+    "name": "KSA SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/122848.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 656
+  },
+  {
+    "name": "YAS SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28276.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 657
+  },
+  {
+    "name": "IRAQIA SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28505.m3u8",
+    "category": "العراق",
+    "active": true,
+    "sortOrder": 658
+  },
+  {
+    "name": "LIBYA SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28456.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 659
+  },
+  {
+    "name": "KTV SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/38938.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 660
+  },
+  {
+    "name": "Bahrain Sport",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/38944.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 661
+  },
+  {
+    "name": "JORDAN SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28486.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 662
+  },
+  {
+    "name": "PALESTINE SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28374.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 663
+  },
+  {
+    "name": "OMAN TV SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28395.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 664
+  },
+  {
+    "name": "SUDAN SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28331.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 665
+  },
+  {
+    "name": "KTV Sports Plus",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/277390.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 666
+  },
+  {
+    "name": "Bahrain Sports 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/277406.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 667
+  },
+  {
+    "name": "Bahrain Sports 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/277405.m3u8",
+    "category": "خليجي",
+    "active": true,
+    "sortOrder": 668
+  },
+  {
+    "name": "AD SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/278615.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 669
+  },
+  {
+    "name": "AD SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/4473.m3u8",
+    "category": "رياضة",
+    "active": true,
+    "sortOrder": 670
+  }
+]
